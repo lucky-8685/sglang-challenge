@@ -1,0 +1,17 @@
+{
+  "group": "dispersed_prefix",
+  "request_count": 32,
+  "success_count": 32,
+  "success_rate": 1.0,
+  "throughput_requests_per_second": 6.778087181006328,
+  "cache_hit_rate": 0.0,
+  "cached_tokens_total": 0,
+  "actual_prefill_tokens_total": 88812,
+  "wall_time_seconds": 4.721095959000195,
+  "ttft_seconds_p50": 0.5538846580002428,
+  "ttft_seconds_p95": 1.027173307999874,
+  "tpot_seconds_p50": 0.03929357540000637,
+  "tpot_seconds_p95": 0.0684525077333698,
+  "e2e_seconds_p50": 1.1755416189998869,
+  "e2e_seconds_p95": 1.2789620610001293
+}
